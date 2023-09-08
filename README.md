@@ -26,7 +26,7 @@ Generate an API key for OpenWeather:
 
 Cloning the Repository:
 
-- _Clone the repository from the GitHub:_
+- _Clone the repository from the GitHub link: (add link here)_
 - _Navigate to the project's root directory._
 
 - _In your code editor, navigate to your project root directory. Create a file named ".env"._
